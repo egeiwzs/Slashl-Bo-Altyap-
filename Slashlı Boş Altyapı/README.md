@@ -30,7 +30,7 @@ node .
 - Basit ve anlaşılır kod yapısı
 
 ## 🤝 Destek
-Herhangi bir sorun için [Shell Co.](https://discord.gg/4jhZkgmZ) Discord sunucumuza katılabilirsiniz.
+Herhangi bir sorun için [Space Bilişim](https://discord.gg/4jhZkgmZ) Discord sunucumuza katılabilirsiniz.
 
 
 ---
